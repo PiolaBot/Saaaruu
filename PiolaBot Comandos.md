@@ -20,7 +20,4 @@ p!mute [Usuario] [Duración]
 
 p!kick [Usuario] [Motivo]
 
-
-Bot maked by: Saru
-
-Copyright ©. Alt + 0169.
+p!clear [cantidad] 
